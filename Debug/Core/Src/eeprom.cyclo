@@ -1,0 +1,14 @@
+../Core/Src/eeprom.c:30:11:EEPROM_ReadPageState	3
+../Core/Src/eeprom.c:36:10:EEPROM_GetEraseCount	4
+../Core/Src/eeprom.c:43:13:EEPROM_SetPageState	3
+../Core/Src/eeprom.c:51:6:EEPROM_ErasePage	4
+../Core/Src/eeprom.c:81:10:EEPROM_FindFreeSlot	5
+../Core/Src/eeprom.c:96:14:EEPROM_FindLastValue	6
+../Core/Src/eeprom.c:115:5:EEPROM_SelectPageForTransfer	5
+../Core/Src/eeprom.c:138:14:EEPROM_Init	16
+../Core/Src/eeprom.c:203:6:EEPROM_PageTransfer	4
+../Core/Src/eeprom.c:234:14:EEPROM_Write	6
+../Core/Src/eeprom.c:263:14:EEPROM_Read	1
+../Core/Src/eeprom.c:268:14:EEPROM_Format	2
+../Core/Src/eeprom.c:278:6:EEPROM_CheckStaticWearLeveling	7
+../Core/Src/eeprom.c:307:6:EEPROM_GetPagesInfo	3
